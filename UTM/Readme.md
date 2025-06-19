@@ -51,7 +51,7 @@ These USB adapters work with EASE-UTM:
 # Open Terminal and run these commands:
 
 # Download the project
-git clone https://github.com/yourusername/ease-utm.git
+git clone https://github.com/lukeswitz/ease.git
 cd ease-utm
 
 # Make the script executable
@@ -474,11 +474,11 @@ MIT License - see [LICENSE](LICENSE) file.
 ## 🔗 Related Projects
 
 - **[Original EASE](https://github.com/intuitibits/ease)** - VirtualBox version
-- **[EASE-Parallels](https://github.com/yourusername/ease-parallels)** - Parallels Desktop version
+- **[EASE-Parallels](https://github.com/lukeswitz/ease-parallels)** - Parallels Desktop version
 - **[UTM](https://github.com/utmapp/UTM)** - The virtualization platform we use
 
 ---
 
-**Questions? Open an [issue](https://github.com/yourusername/ease-utm/issues) or start a [discussion](https://github.com/yourusername/ease-utm/discussions)!**
+**Questions? Open an [issue](https://github.com/lukeswitz/ease-utm/issues) or start a [discussion](https://github.com/lukeswitz/ease-utm/discussions)!**
 
 **💝 Like this project? Give it a ⭐ and tell your friends!**
