@@ -1,10 +1,10 @@
 # External Adapter Support Environment
 
-## VirtualBox Alternatives 
+## VirtualBox Alternatives for Apple Silicon
 
-1. [UTM](https://github.com/lukeswitz/ease/UTM/Readme.md)
+1. [UTM](https://github.com/lukeswitz/ease/tree/master/UTM)
 
-2. [Parallels](https://github.com/lukeswitz/ease/PD/Readme.md)
+2. [Parallels](https://github.com/lukeswitz/ease/tree/master/PD)
 
 ---
 
