@@ -2,9 +2,9 @@
 
 ## VirtualBox Alternatives 
 
-1. [UTM](https://github.com/lukeswitz/ease/edit/UTM/Readme.md)
+1. [UTM](https://github.com/lukeswitz/ease/UTM/Readme.md)
 
-2. [Parallels](https://github.com/lukeswitz/ease/edit/PD/Readme.md)
+2. [Parallels](https://github.com/lukeswitz/ease/PD/Readme.md)
 
 ---
 
