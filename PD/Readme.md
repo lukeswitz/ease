@@ -50,8 +50,8 @@ All adapters supported by the original EASE project work with EASE-Parallels:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ease-parallels.git
-cd ease-parallels
+git clone https://github.com/lukeswitz/ease.git
+cd ease/PD/
 
 # Make the script executable
 chmod +x ease-parallels.sh
