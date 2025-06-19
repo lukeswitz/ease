@@ -2,9 +2,9 @@
 
 ## VirtualBox Alternatives for Apple Silicon
 
-1. [UTM](https://github.com/lukeswitz/ease/tree/master/UTM)
+1. [EASE-UTM](https://github.com/lukeswitz/ease/tree/master/UTM)
 
-2. [Parallels](https://github.com/lukeswitz/ease/tree/master/PD)
+2. [EASE-Parallels](https://github.com/lukeswitz/ease/tree/master/PD)
 
 ---
 
