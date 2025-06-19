@@ -52,7 +52,7 @@ These USB adapters work with EASE-UTM:
 
 # Download the project
 git clone https://github.com/lukeswitz/ease.git
-cd ease-utm
+cd ease/UTM/
 
 # Make the script executable
 chmod +x ease-utm.sh
