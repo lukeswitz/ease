@@ -41,7 +41,7 @@ These USB adapters work with EASE-UTM:
 
 ### Step 1: Install UTM
 
-1. **Download UTM** from [mac.getutm.app](https://mac.getutm.app/) (it's free!)
+1. **Download UTM** from [mac.getutm.app](https://mac.getutm.app/)
 2. **Open the .dmg file** and drag UTM to Applications
 3. **Open UTM** and grant it necessary permissions when prompted
 
