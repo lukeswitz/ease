@@ -1,5 +1,13 @@
 # External Adapter Support Environment
 
+## VirtualBox Alternatives 
+
+1. [UTM](https://github.com/lukeswitz/ease/edit/UTM/Readme.md)
+
+2. [Parallels](https://github.com/lukeswitz/ease/edit/PD/Readme.md)
+
+---
+
 The External Adapter Support Environment (EASE) allows [WiFi Explorer Pro](https://www.intuitibits.com/products/wifi-explorer-pro) and [Airtool 2](https://www.intuitibits.com/products/airtool) to use external USB adapters for Wi-Fi scanning and packet capturing in macOS. Adapters must be Linux-compatible and support monitor mode.
 
 EASE is a custom, lightweight Debian VM that leverages the WiFi Explorer Pro's [remote sensor](https://github.com/intuitibits/wifiexplorer-sensor) functionality to configure an external Wi-Fi adapter as a pseudo-local sensor automatically. These pseudo-local sensors are listed in WiFi Explorer Pro separately from remote sensors, but they work in the same manner. Airtool 2 can also use the external adapters for Wi-Fi packet capturing, including packet captures on different channels simultaneously using multiple external adapters.
